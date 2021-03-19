@@ -1,1 +1,1 @@
-## Olá! Eu sou a Aline Viana <img align="center" alt="meu nome e uma frase:'always putting my neuroplastic to work' e software developer, com atomo girando" height="60" width="80" src="https://tenor.com/blBN7.gif">
+## Olá! Eu sou a Aline Viana <img align="center" alt="meu nome e uma frase:'always putting my neuroplastic to work' e software developer, com atomo girando" height="60" width="80" src="https://github.com/linefmv/aaaa/blob/main/Purple%20Birthday%20Email%20Header.gif?raw=true">
