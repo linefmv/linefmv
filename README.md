@@ -1,1 +1,1 @@
-# aaaa
+## Olá! Eu sou a Aline Viana <img align="center" alt="meu nome e uma frase:'always putting my neuroplastic to work' e software developer, com atomo girando" height="60" width="80" src="https://media.tenor.com/images/4f20af75f32887384aab7e49c37537ae/tenor.gif">
