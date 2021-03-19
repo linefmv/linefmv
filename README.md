@@ -2,10 +2,9 @@
 
 
 <img align="center" alt="banner that says my name and a phrase:'always putting my neuroplastic to work' e software developer, with athom spinning" src="https://github.com/linefmv/linefmv/blob/main/Purple%20Birthday%20Email%20Header.gif?raw=true"> 
+I'm a physical therapy student and I'm learning about software development. And right now I'm dedicated to understanding Javascript and UX/UI. Can you find in another social media. 
 
 ##
-
-I'm a physical therapy student and I'm learning about software development. And right now I'm dedicated to understanding Javascript and UX/UI. Can you find in another social media. 
 
 <div>
 <a href = "mailto: alinemaciel018@gmail.com"><img src="https://www.flaticon.com/svg/vstatic/svg/355/355992.svg?token=exp=1616184188~hmac=2e9f94ebe293d71e2dd60dc39073dd13" height="25" width="40" target="_blank"></a>
