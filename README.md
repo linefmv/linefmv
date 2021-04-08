@@ -2,7 +2,11 @@
 
 
 <img align="center" alt="banner that says my name and a phrase:'always putting my neuroplastic to work' e software developer, with athom spinning" src="https://github.com/linefmv/linefmv/blob/main/Purple%20Birthday%20Email%20Header.gif?raw=true"> 
-I'm a physical therapy student and I'm learning about software development. And right now I'm dedicated to understanding Javascript and UX/UI. 
+• I'm a physical therapy student and I'm learning about software development. 
+• Right now I'm dedicated to understanding Javascript and UX/UI. 
+• Pronouns: She/her/hers
+• Hobbies: games 
+
 
 ##
 
