@@ -12,6 +12,7 @@
 ##
 
 <div>
-<a href="https://www.linkedin.com/in/viana-aline/" target="_blank"><img src="https://github.com/linefmv/linefmv/blob/main/logotipo-do-linkedin.png?raw=true" height="20" width="30" target="_blank"></a>
+<img alt="Website" src="https://img.shields.io/website?color=%230e76a8%09&down_message=conect&label=Linkedin&style=for-the-badge&up_message=Linkedin&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fviana-aline%2F">
+  <img alt="Website" src="https://img.shields.io/website?color=%23C13584&down_message=Follow&label=Instagram&style=for-the-badge&up_message=Follow&url=https%3A%2F%2Fwww.instagram.com%2Flinefmv%2F">
 </div>
 
