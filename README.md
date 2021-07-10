@@ -12,7 +12,6 @@
 ##
 
 <div>
-<img alt="Website" src="https://img.shields.io/website?color=%230e76a8%09&down_message=conect&label=Linkedin&style=for-the-badge&up_message=Linkedin&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fviana-aline%2F">
-  <img alt="Website" src="https://img.shields.io/website?color=%23C13584&down_message=Follow&label=Instagram&style=for-the-badge&up_message=Follow&url=https%3A%2F%2Fwww.instagram.com%2Flinefmv%2F">
-</div>
-
+  <a href = "mailto:contato@alinemacielviana018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/viana-aline/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
