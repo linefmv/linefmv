@@ -3,7 +3,7 @@
 
 <img align="center" alt="banner that says my name and a phrase:'always putting my neuroplastic to work' e software developer, with athom spinning" src="https://github.com/linefmv/linefmv/blob/main/Purple%20Birthday%20Email%20Header.gif?raw=true"> 
 
-• :octocat:I'm a physical therapy student and I'm learning about software development. <br>
+• :octocat: Studing Front-End development at @reprograma and graduated UX/UI for @estartandodevs <br>
 • :rainbow: Right now I'm dedicated to understanding Javascript and UX/UI. <br>
 • 😄 Pronouns: She/her/hers <br>
 • :video_game: Hobbies: Games & movies.
