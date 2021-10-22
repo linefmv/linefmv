@@ -1,7 +1,7 @@
 # Hi! I'm Aline Viana
 
 • :octocat: Studing Front-End development at @reprograma and graduated UX/UI for @estartandodevs. <br>
-• :rainbow: Right now I'm dedicated to understanding Javascript and UX/UI. <br>
+• :rainbow: Right now I'm dedicated to understanding JS and React. <br>
 • 😄 Pronouns: She/her/hers. <br>
 • :video_game: Hobbies: Games & movies.
 
